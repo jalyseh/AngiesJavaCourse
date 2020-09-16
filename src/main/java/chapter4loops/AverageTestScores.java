@@ -1,4 +1,4 @@
-package chapter4;
+package chapter4loops;
 
 /*NESTED LOOPS:
     Find the average of each students test scores*/

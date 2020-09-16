@@ -1,4 +1,4 @@
-package chapter4;
+package chapter4loops;
 
 //DO WHILE LOOP
 //Program allows user to enter 2 numbers,

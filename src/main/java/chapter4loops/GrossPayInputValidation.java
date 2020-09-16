@@ -1,4 +1,4 @@
-package chapter4;
+package chapter4loops;
 
 import java.util.Scanner;
 //WHILE LOOP
